@@ -1,0 +1,11 @@
+body {
+    font-family: Lucida Console, Courier, monospace;
+    background: #000099;
+}
+
+#content {
+    width: 600px;
+    margin: 10px auto;
+    padding: 5px 20px;
+    background: #b3b3ff;
+    border: 1px solid #FFFFFF;
