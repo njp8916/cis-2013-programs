@@ -52,5 +52,5 @@ else
                             stringMessage = ("F");
                         }
     }
-alert(stringMessage)
+alert("Final Grade:"+ stringMessage)
 }
